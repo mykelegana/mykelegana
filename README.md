@@ -12,7 +12,7 @@ Always learning.
 
 **Tech**
 
-`TypeScript` `NestJS` `MySQL` `PostgreSQL` `Prisma ORM` `Redis` `Docker` `BullMQ` `REST API`
+`TypeScript` `NestJS` `MySQL` `PostgreSQL` `Prisma ORM` `Redis` `Docker` `BullMQ` `AWS` `REST API`
 
 ---
 
