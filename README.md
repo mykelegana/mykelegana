@@ -8,7 +8,7 @@ Currently working with NestJS, PostgreSQL, Redis, Docker and AWS.
 
 Always learning.
 
-🔭 Currently building: **Briefly** — an AI context-briefing tool that captures your conversation history from one AI tool and primes a new session in another, so you never have to re-explain context from scratch.
+🔭 Currently building: **Briefly** — turns long AI coding conversations into structured developer context, removing unnecessary conversation history so you can continue working with another AI without wasting tokens explaining your project again.
 
 ---
 
