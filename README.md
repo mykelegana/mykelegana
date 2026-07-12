@@ -22,5 +22,5 @@ Always learning.
 
 - I work best late at night when everything is quiet
 - My first instinct when something breaks is to check the logs, not Google
-- Open to remote opportunities and internships
+- Open to remote opportunities, internships and freelance projects
 - BSIT student at Cavite State University – Imus Campus
