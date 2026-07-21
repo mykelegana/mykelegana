@@ -8,6 +8,9 @@ Currently working with NestJS, PostgreSQL, Redis, Docker and AWS.
 
 Always learning.
 
+🏗️ Currently building: **Multi-tenant-saas-billing-api** — a project focused on organization-based data isolation, role-based access control, subscription billing with Stripe, Redis caching, background jobs with BullMQ, Rate-limiting and production deployment on AWS.
+
+
 ---
 
 **Tech**
